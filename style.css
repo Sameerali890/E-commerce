@@ -120,7 +120,7 @@ button.white{
 
 /* Hero page */
 #hero{
-    background-image: url(/Img/hero4.png);
+    background-image: url(./Img/hero4.png);
     width: 100%;
     height: 100vh;
     background-size: cover;
@@ -140,7 +140,7 @@ button.white{
 #hero button{
     font-weight: bold;
     color: #088178;
-    background-image: url(/Img/button.png);
+    background-image: url(./Img/button.png);
     border: none;
     background-color: transparent;
     padding: 14px 80px 14px 65px;
@@ -274,7 +274,7 @@ button.white{
     align-items: center;
     text-align: center;
     flex-direction: column;
-    background-image: url(/Img/Banner/b2.jpg);
+    background-image: url(./Img/Banner/b2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -307,7 +307,7 @@ button.white{
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
-    background-image: url(/Img/Banner/b17.jpg);
+    background-image: url(./Img/Banner/b17.jpg);
     background-size: cover;
     background-position: center;
     min-width: 680px;
@@ -315,7 +315,7 @@ button.white{
     padding: 30px;     
 }
 #sm-banner .banner-box2{
-    background-image: url(/Img/Banner/b10.jpg);
+    background-image: url(./Img/Banner/b10.jpg);
 }
 .banner-box h4{
     font-size: 20px;
@@ -348,7 +348,7 @@ button.white{
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
-    background-image: url(/Img/Banner/b7.jpg);
+    background-image: url(./Img/Banner/b7.jpg);
     background-size: cover;
     background-position: center;
     min-width: 30%;
@@ -357,10 +357,10 @@ button.white{
     margin-bottom: 20px;
 }
 #banner3 .banner-box2{
-    background-image: url(/Img/Banner/b4.jpg);
+    background-image: url(./Img/Banner/b4.jpg);
 }
 #banner3 .banner-box3{
-    background-image: url(/Img/Banner/b18.jpg);
+    background-image: url(./Img/Banner/b18.jpg);
 }
 #banner3 h2{
     color: #fff;
@@ -378,7 +378,7 @@ button.white{
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    background-image: url(/Img/Banner/b14.png);
+    background-image: url(./Img/Banner/b14.png);
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42;
@@ -474,7 +474,7 @@ footer .copyright{
 
 /* shop page */
 #page-header{
-    background-image: url(/Img/Banner/b1.jpg);
+    background-image: url(./Img/Banner/b1.jpg);
     text-align: center;
     height: 35vh;
     background-size: cover;
@@ -555,7 +555,7 @@ footer .copyright{
 }
 /* Blog page */
 #page-header.blog-header{
-    background-image: url(/Img/Banner/b19.jpg);
+    background-image: url(./Img/Banner/b19.jpg);
 }
 #blog{
     padding: 150px 150px 0 150px;
@@ -618,7 +618,7 @@ footer .copyright{
 }
 /* about page */
 #page-header.about-header{
-    background-image: url(/Img/about/banner.png);
+    background-image: url(./Img/about/banner.png);
 }
 #about-head{
     display: flex;
